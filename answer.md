@@ -110,9 +110,6 @@ $order->addOrder($cartItems);
 
 ```php
 <?php
-
-// 
-
 // カート内のすべての商品を削除する
   public function clearCart(): void
   {
